@@ -341,8 +341,6 @@ dependencies:
     - altair==6.0.0
     - cachetools==7.0.5
     - gitdb==4.0.12
-    - jupyterlab_discord==0.1.0
-    - jupyterlab_wakatime==0.2.0
     - narwhals==2.17.0
     - nvidia-nccl-cu12==2.29.7
     - pyarrow==23.0.1
