@@ -9,3 +9,9 @@
 -  `python`: `3`
 -  `Solver` : `MiniForge`
 
+
+## Information
+
+`Nama`: `Muh Yusuf`
+`NIM`: `E1E124044`
+`KELAS`: `A`
